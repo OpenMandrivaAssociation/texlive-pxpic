@@ -1,6 +1,6 @@
 Name:		texlive-pxpic
 Version:	61294
-Release:	1
+Release:	2
 Summary:	Draw pixel pictures
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxpic
