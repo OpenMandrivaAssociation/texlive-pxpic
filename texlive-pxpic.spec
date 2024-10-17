@@ -3,7 +3,7 @@ Version:	67955
 Release:	1
 Summary:	Draw pixel pictures
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pxpic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pxpic
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxpic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pxpic.doc.r%{version}.tar.xz
